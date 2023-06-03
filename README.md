@@ -6,7 +6,7 @@
 3) ``pip install -r requirements.txt``
 4) goto [https://discord.com/developers/](https://discord.com/developers/)
 5) edit last line (32)
-6) run Main.py ``python Main.py`` OR run start.bat
+6) run ``python Main.py`` OR run start.bat
 7) enjoy!
 
 
