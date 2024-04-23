@@ -11,5 +11,5 @@
 
 
 ### Issues?
-- Please contact me on discord: [professedray4]([url](https://discord.com/users/1091415878156943472))
+- Please contact me on discord: [professedray4](https://discord.com/users/1091415878156943472)
 - Leave a `Issue` and i will attempt to fix it
